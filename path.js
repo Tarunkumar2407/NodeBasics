@@ -14,3 +14,10 @@ const path = require("node:path")
 const myName = path.parse(__filename)
 
 console.log(myName.name)
+
+
+console.log("hello nodemon");
+
+console.log("tarun")
+
+console.log("Hi Nodemon")
